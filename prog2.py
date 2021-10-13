@@ -1,0 +1,2 @@
+print ("Omri")
+print ("Moshe")
